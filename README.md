@@ -1,5 +1,5 @@
 # DSO-574-Airbnb-Project
-This is a course project in which I used scraped data from Airbnb to evaluate the impact of Covid on the LA housing market.
+This is a MBA-level course project in which I used scraped data from Airbnb to evaluate the impact of Covid on the LA housing market.
 
 Background
 
