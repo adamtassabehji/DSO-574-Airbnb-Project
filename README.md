@@ -1,6 +1,6 @@
 # DSO-574-Airbnb-Project
 
-This is a MBA-level course project in which I collaborated with Alek Carlson. We used scraped data from Airbnb to evaluate the impact of Covid on the LA housing market.
+This is a MBA-level course project in which I collaborated with Alek Carlson (@alekcarlson). We used scraped data from Airbnb to evaluate the impact of Covid on the LA housing market.
 
 ### Part I) How has the Airbnb Market in LA Changed after COVID?
 
